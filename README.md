@@ -1,4 +1,3 @@
-Description
 This repository contains the following three patches that add new features to the Python language:
 
 new_opcode.patch This patch adds the new LOAD_OTUS opcode (Python bytecode instruction, see https://docs.python.org/2.7/library/dis.html). LOAD_OTUS opcode combines existing LOAD_FAST and LOAD_CONST opcodes as follows:
